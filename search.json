@@ -1,15 +1,15 @@
 [
   
     {
-      "title"    : "Integrating razorpay into your webapp",
-      "title-lower"    : "integrating razorpay into your webapp",
+      "title"    : "Test Blog Yazısı",
+      "title-lower"    : "test blog yazısı",
       "sub-titile" : "",
       "sub-titile-lower" : "",
-      "categories" : "JavascriptNodeJS",
+      "categories" : "Ruby",
       "tags"     : "",
-      "url"      : "/javascript/nodejs/2019/03/23/welcome-to-jekyll.html",
-      "date"     : "2019-03-23 18:33:36 +0300",
-      "content"     : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ..."
+      "url"      : "/ruby/2024/03/30/welcome-to-jekyll.html",
+      "date"     : "2024-03-30 21:00:00 +0300",
+      "content"     : "Örnek bir içeriktir yakın zamanda yeni içerikler paylaşılacaktır. Bu bir test içeriğidir.puts &#39;Hello world&#39;Örnek link kullanımı Anasayfa"
     } 
   
 ]
